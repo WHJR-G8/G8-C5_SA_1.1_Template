@@ -1,5 +1,10 @@
 import turtle
 
+turtle.showturtle()
+turtle.shape('turtle')
+
+side = int(input("Enter the side value"))
+
 #write the code for if block over here
 
 else:
