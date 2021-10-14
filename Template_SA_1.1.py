@@ -7,6 +7,19 @@ side = int(input("Enter the side value"))
 
 #write the code for if block over here
 
+    for x in range(20):
+        turtle.fillcolor("")#Fill the color as "yellow"
+        #Start the color filling
+        turtle.forward(side)
+        #write the code for if block over here
+            turtle.left(175)
+            turtle.pencolor("")#Make the pencolor as "red"
+        else:
+            turtle.left(225)
+            turtle.pencolor("")#Make the pencolor as "green"
+
+    #End the color fill
+
 else:
     
         for x in range(20):
