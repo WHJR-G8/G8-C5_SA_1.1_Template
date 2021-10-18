@@ -19,6 +19,11 @@ side = int(input("Enter the side value"))
             turtle.pencolor("")#Make the pencolor as "green"
 
     #End the color fill
+    
+#write the code for elif block over here
+
+
+    #End the color fill
 
 else:
     
@@ -28,10 +33,12 @@ else:
             turtle.forward(side)
             if x % 2 == 0:
                 turtle.left(175)
-                turtle.pencolor('blue')
+                turtle.pencolor('orange')
             else:
                 turtle.left(225)
-                turtle.pencolor('yellow')
+                turtle.pencolor('cyan')
+
+        turtle.end_fill()   
 
         turtle.end_fill()    
 
