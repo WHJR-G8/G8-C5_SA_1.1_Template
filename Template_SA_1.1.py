@@ -13,7 +13,7 @@ side = int(input("Enter the side value"))
         turtle.begin_fill()
         turtle.forward(side)
         
-       
+        
             turtle.left(175)
             turtle.pencolor("")
             
@@ -31,7 +31,7 @@ side = int(input("Enter the side value"))
         turtle.begin_fill()
         turtle.forward(side)
         
-       
+        
             turtle.left(175)
             turtle.pencolor("")
             
