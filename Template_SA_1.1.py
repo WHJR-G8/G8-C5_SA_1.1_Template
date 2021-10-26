@@ -8,6 +8,7 @@ side = int(input("Enter the side value"))
 #For Student 1
 
 
+
     for x in range(20):
         turtle.fillcolor("")
         turtle.begin_fill()
@@ -24,6 +25,7 @@ side = int(input("Enter the side value"))
     turtle.end_fill()
 
 #For Student 2
+
 
 
     for x in range(20):
