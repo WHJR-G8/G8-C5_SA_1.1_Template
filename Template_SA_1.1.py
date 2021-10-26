@@ -54,8 +54,6 @@ else:
                 turtle.left(225)
                 turtle.pencolor('cyan')
 
-        turtle.end_fill()   
-
-        turtle.end_fill()    
+        turtle.end_fill()       
 
 turtle.ht()
